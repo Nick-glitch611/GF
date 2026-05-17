@@ -1,7 +1,8 @@
 body{
-  background-color: black;
+  background-color: #1E1E1E;
 }
 
 h1{
   color: yellow;
+  font-family: 'Montserrat', sans-serif;
 }
