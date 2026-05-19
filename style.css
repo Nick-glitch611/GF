@@ -1,5 +1,5 @@
 body {
-    background-color: grey;
+    background-color: #1E1E1E;
     margin: 0;
     padding: 0;
 }
@@ -44,7 +44,6 @@ p {
     max-width: 700px;
     font-size: 20px;
     background-color: rgba(255,255,255,0.05);
-    border-radius: 10px;
     overflow: hidden;
 }
 
@@ -54,15 +53,15 @@ p {
     padding: 15px 25px;
 }
 
-/* IMAGEM */
+/* IMAGENS */
 
 img {
     display: block;
     margin: 20px auto;
-    width: 100%;
+    width: 70%;
     max-width: 500px;
     height: auto;
-    margin: auto;
+    border-radius: 10px;
 }
 
 /* RESPONSIVIDADE */
@@ -71,6 +70,7 @@ img {
 
     h1 {
         font-size: 32px;
+        padding: 0 10px;
     }
 
     h2 {
@@ -93,7 +93,6 @@ img {
     }
 
     img {
-        width: 55%;
-        margin: auto
+        width: 75%;
     }
 }
