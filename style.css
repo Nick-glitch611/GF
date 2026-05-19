@@ -38,4 +38,21 @@ img {
     height: 200px;
 }
 
+@media (max-width: 768px) {
 
+    h1 {
+        font-size: 28px;
+    }
+
+    .menu {
+        flex-direction: column;
+    }
+
+    .table {
+        width: 100%;
+    }
+
+    img {
+        width: 90%;
+    }
+}
