@@ -61,7 +61,7 @@ img {
     width: 70%;
     max-width: 500px;
     height: auto;
-    border: solid 2px white;
+    border: 2px solid white;
     border-radius: 10px;
 }
 
