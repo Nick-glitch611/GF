@@ -97,6 +97,9 @@ img {
     }
 }
 
-botao {
-    bottom: 20px; right: 20px;
+.botao {
+    bottom: 20px;
+    right: 20px;
+    height: 50px;
+    width: auto;
 }
