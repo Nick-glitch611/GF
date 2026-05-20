@@ -96,3 +96,7 @@ img {
         width: 75%;
     }
 }
+
+botao {
+    bottom: 20px; right: 20px;
+}
