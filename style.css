@@ -142,3 +142,9 @@ img {
 
     display: block;
 }
+
+.container {
+    display: flex;
+            align-items: center; /* alinha verticalmente */
+            gap: 15px; /* espaço entre imagem e texto */
+}
